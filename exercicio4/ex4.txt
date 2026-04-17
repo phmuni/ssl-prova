@@ -1,0 +1,1 @@
+O CSR (Certificate Signing Request) é um arquivo que contém a chave pública e informações da entidade (nome, organização, país). Ele é gerado a partir da chave privada e enviado a uma Autoridade Certificadora (CA) para solicitar um certificado assinado.
