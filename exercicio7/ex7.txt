@@ -1,0 +1,1 @@
+O servidor HTTPS requer que o certificado seja reconhecido por uma Autoridade Certificadora (CA) confiável. Como o aluno.crt é autoassinado, o navegador exibe um aviso de segurança informando que a conexão não é confiável — comportamento esperado em certificados que não passaram por validação de terceiros.
