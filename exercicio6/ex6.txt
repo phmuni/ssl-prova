@@ -1,0 +1,1 @@
+O SCP (Secure Copy Protocol) é um comando que transfere arquivos entre máquinas de forma segura usando SSH como base. No exercício, ele copia o certificado gerado para o diretório SSL de outro host, garantindo que a transferência seja criptografada e protegida contra interceptação.
