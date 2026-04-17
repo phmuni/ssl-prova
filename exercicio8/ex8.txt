@@ -1,0 +1,1 @@
+A validação no navegador permite inspecionar os detalhes do certificado: emissor, validade, chave pública e para quem foi emitido. Como o certificado é autoassinado, o navegador alerta que não é confiável, mas ainda é possível visualizar e aceitar manualmente, confirmando que o certificado foi gerado e aplicado corretamente.
