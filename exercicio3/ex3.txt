@@ -1,0 +1,1 @@
+7:55 PMA chave privada é um arquivo secreto usado para assinar e decriptar dados em comunicações SSL/TLS. Gerada com o algoritmo RSA de 2048 bits, ela nunca deve ser compartilhada — é a identidade do servidor e a base de toda a segurança do certificado.
