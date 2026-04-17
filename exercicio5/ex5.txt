@@ -1,0 +1,1 @@
+O certificado autoassinado é um certificado digital assinado pela própria chave privada, sem uma Autoridade Certificadora (CA) externa. Válido por 365 dias, é útil para ambientes de teste, mas navegadores não confiam nele por padrão por não ter validação de terceiros.
